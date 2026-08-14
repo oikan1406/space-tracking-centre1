@@ -1,0 +1,7 @@
+streamlit
+streamlit-folium
+folium
+skyfield
+python-dateutil
+geopy
+streamlit-autorefresh
